@@ -1,2 +1,2 @@
-# skyinterview
-sky interview task
+# skyproject
+sky project
